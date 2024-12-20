@@ -7,7 +7,7 @@ Done by:
   Nisha Janamanchi nishaj3@illinois.edu
 
 
-This Python notebook file implements the Hirschberg linear space complexity global alignment algorithm. It was benchmarked against the Needleman-Wunsch, homework 1 from BIOE 466, implementation to test the time complexity and the space complexity.
+This Python notebook file implements the Hirschberg linear space complexity global alignment algorithm. It was benchmarked against the Needleman-Wunsch, homework 1 from BIOE 466, implementation to test the time complexity and the space complexity. To run the file yourself, download it and load up to google collab.
 
 How to use:
 
